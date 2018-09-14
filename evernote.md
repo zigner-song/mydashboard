@@ -9,8 +9,8 @@ PC: https://www.yinxiang.com/       （Windows/Mac）
 更多详情 见知乎回答  https://www.zhihu.com/question/25721578
 
 1. PC端：  安装“剪藏”插件  https://www.yinxiang.com/products/
-2. 微信： 关注一下“我的印象笔记”微信公众号。
-3. 微博：直接在相关微博评论“@我的印象笔记”
+2. 微信： 关注一下`我的印象笔记`微信公众号。
+3. 微博：直接在相关微博评论`@我的印象笔记`
    还支持   知乎、Xmind、扫描全能王等等APP的一键同步
 
 
