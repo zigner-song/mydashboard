@@ -24,9 +24,9 @@ https://www.yinxiang.com/products/
 
 # 如果你已经注册，可以通过拉新兑换会员（最多三个月）
 
-Step 1 登陆网页版
+Step 1 登陆网页版  https://www.yinxiang.com/ 
 
-Step2  登陆网址https://app.yinxiang.com/referral/Invite.action  输入你安利的人的邮箱，被安利的人注册并下载客户端
+Step2  登陆网址  https://app.yinxiang.com/referral/Invite.action  输入你安利的人的邮箱，被安利的人注册并下载客户端
 
 Step3  登陆积分界面 https://app.yinxiang.com/Points.action  兑换会员
 
