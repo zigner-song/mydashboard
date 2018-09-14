@@ -1,10 +1,10 @@
-印象笔记下载地址
+# 印象笔记下载地址
 
 PC: https://www.yinxiang.com/       （Windows/Mac）
 
 手机/平板电脑：应用商店
 
-印象笔记“一键保存”操作
+# 印象笔记“一键保存”操作
 
 更多详情 见知乎回答  https://www.zhihu.com/question/25721578
 
@@ -15,11 +15,13 @@ PC: https://www.yinxiang.com/       （Windows/Mac）
 
 
 
-印象笔记其他软件
+# 印象笔记其他软件
 
 https://www.yinxiang.com/products/
 
-如果你已经注册，可以通过拉新兑换会员（最多三个月）
+
+
+# 如果你已经注册，可以通过拉新兑换会员（最多三个月）
 
 Step 1 登陆网页版
 
